@@ -1,0 +1,11 @@
+---
+title: "Website"
+author: "Matheus T. Baumgartner"
+date: "February 2025"
+output:
+  prettydoc::html_pretty:
+    theme: hpstr
+    highlight: github
+---
+
+This is a test for the personal website.
